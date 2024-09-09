@@ -1,0 +1,16 @@
+{
+    "name": "acf/file-list",
+    "title": "File List",
+    "description": "Display a list of documents for downloading.",
+    "style": [ "file:./block-styles.css" ],
+    "category": "formatting",
+    "icon": "media-document",
+    "keywords": ["document", "download", "list"],
+    "acf": {
+        "mode": "edit",
+        "renderTemplate": "file-list.php"
+    },
+    "supports": {
+        "anchor": true
+    }
+}

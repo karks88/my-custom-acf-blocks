@@ -1,0 +1,10 @@
+/* Styles for the File List block */
+
+ul.my-file-list-block {
+	margin: 2em 0;
+}
+
+ul.my-file-list-block li {
+	border-bottom: 1px solid #495D0F;
+    padding: 10px 0;
+}
